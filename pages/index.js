@@ -1,7 +1,6 @@
 import { Environment, OrbitControls } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import React from 'react'
-import styles from '../styles/style.module.css';
 import { DesignOne } from '../components/DesignOne';
 import { DesignTwo } from '../components/DesignTwo';
 import { DesignThree } from '../components/DesignThree';
